@@ -1,0 +1,11 @@
+semanaomnistack
+
+tecnologias
+
+- notion
+
+pacotes
+
+- express
+- nodemon
+- knex
