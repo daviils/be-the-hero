@@ -3,6 +3,11 @@ semanaomnistack
 tecnologias
 
 - notion
+- heroku, digitalOcean(hospedagem backend)
+- netlify(hospedagem frontend)
+- ESLint, Prettier
+- autenticação JWT
+- styled components
 
 pacotes
 
@@ -10,3 +15,4 @@ pacotes
 - nodemon
 - knex
 - axio
+- Jest(test)
